@@ -1,0 +1,1 @@
+## Project focus on enhancing personal skills regarding front-end technologies using Coursera's course as basis.
